@@ -1,0 +1,18 @@
+.album {
+    border: 2px solid #555;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    cursor: pointer;
+    display: block;
+    text-decoration: none;
+    color: #000;
+    transition: all .3s ease;
+    max-width: 980px;
+    margin-inline: auto;
+    text-transform: capitalize;
+}
+.album:hover {
+    background-color: #EEE;
+    box-shadow: 1px 1px 4px #333;
+}

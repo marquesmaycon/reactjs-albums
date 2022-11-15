@@ -1,0 +1,20 @@
+footer {
+    margin-block: 1rem;
+    
+}
+
+footer a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+span {
+    opacity: .6;
+    transition: all .3s ease;
+    display: inline-block;    
+}
+
+span:hover {
+    opacity: 1;
+    transform: scale(1.05);
+}

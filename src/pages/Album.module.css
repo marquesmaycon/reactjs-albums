@@ -1,0 +1,16 @@
+button {
+    padding: 8px 13px;
+    border-radius: 10px;
+    border: 1px solid #999;
+    transition: all .3s;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #F9F9F9;
+}
+
+h1 {
+    margin-block: 1rem;
+    text-transform: capitalize;
+}

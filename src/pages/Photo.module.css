@@ -1,0 +1,8 @@
+p {
+    text-transform: capitalize;
+    margin-block: 1rem;
+}
+
+img {
+    border-radius: 10px;
+}

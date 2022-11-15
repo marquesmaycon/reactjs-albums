@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+}
+
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: rgb(171,171,171);
+  background: linear-gradient(90deg, #ababab 0%, #eeeeee 50%, #ababab 100%);
+  min-height: 85vh;
+}
+
